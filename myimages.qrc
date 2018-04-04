@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/myimages">
+        <file>bg2017122701.jpg</file>
+        <file>bg2018010408.png</file>
+        <file>ICON_1024.png</file>
+        <file>rose.jpg</file>
+        <file>WechatIMG165.jpeg</file>
+    </qresource>
+</RCC>
